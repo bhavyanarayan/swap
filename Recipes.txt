@@ -8,3 +8,5 @@ Welcome to new recipes
 Pasta
 Desserts
 Chicken Curries
+Biryani
+Snacks
